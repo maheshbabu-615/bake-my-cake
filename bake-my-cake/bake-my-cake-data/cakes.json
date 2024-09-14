@@ -1,0 +1,293 @@
+{
+  "cakes": [
+    {
+      "id": "1",
+      "name": "Berries Summer Cupcakes",
+      "image": "Berries Summer Cupcakes",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 320
+    },
+    {
+      "id": "2",
+      "name": "Brownies Different Flavor",
+      "image": "Brownies Different Flavor",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 400
+    },
+    {
+      "id": "3",
+      "name": "Butter Cookies",
+      "image": "Butter Cookies",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 300
+    },
+    {
+      "id": "4",
+      "name": "Cherry Jelly Cheesecake",
+      "image": "Cherry Jelly Cheesecake",
+      "description": "Delicious product",
+      "rating": 4.5,
+      "price": 550
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Blueberries Cake",
+      "image": "Chocolate Blueberries Cake",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 510
+    },
+    {
+      "id": "6",
+      "name": "Chocolate Bonbons",
+      "image": "Chocolate Bonbons",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 650
+    },
+    {
+      "id": "7",
+      "name": "Chocolate Cookies",
+      "image": "Chocolate Cookies",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 350
+    },
+    {
+      "id": "8",
+      "name": "Chocolate Cupcake",
+      "image": "Chocolate Cupcake",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 220
+    },
+    {
+      "id": "9",
+      "name": "Chocolate Summer Berries",
+      "image": "Chocolate Summer Berries",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 550
+    },
+    {
+      "id": "10",
+      "name": "Classic Cheesecake",
+      "image": "Classic Cheesecake",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 280
+    },
+    {
+      "id": "11",
+      "name": "Cookies Cream Cake",
+      "image": "Cookies Cream Cake",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 230
+    },
+    {
+      "id": "12",
+      "name": "Easter Cupcakes",
+      "image": "Easter Cupcakes",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 220
+    },
+    {
+      "id": "13",
+      "name": "Fruit Cake",
+      "image": "Fruit Cake",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 530
+    },
+    {
+      "id": "14",
+      "name": "Isometric chocolate brownies",
+      "image": "Isometric chocolate brownies",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 650
+    },
+    {
+      "id": "15",
+      "name": "Monster Theme Cake",
+      "image": "Monster Theme Cake",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 420
+    },
+    {
+      "id": "16",
+      "name": "Muffin Devil Horns",
+      "image": "Muffin Devil Horns",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 180
+    },
+    {
+      "id": "17",
+      "name": "Muffin Ghost",
+      "image": "Muffin Ghost",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 220
+    },
+    {
+      "id": "18",
+      "name": "Pumpkin Spice Cupcakes",
+      "image": "Pumpkin Spice Cupcakes",
+      "description": "Delicious product",
+      "rating": 4,
+      "price": 250
+    }
+  ],
+  "CakeRequests": [
+    {
+      "orderDate": "2023-10-17T18:30:00.000Z",
+      "quantity": 1,
+      "totalAmount": 300,
+      "customerName": "mahesh babu",
+      "customerEmail": "abc@gmail.com",
+      "customerPhone": "+919874563210",
+      "customerstreet": "MG Road",
+      "customercity": "vijayawada",
+      "customerstate": "Andhra Pradesh",
+      "customerpincode": "520001",
+      "customerflatNo": "960",
+      "cakePrice": 300,
+      "cakeName": "Butter Cookies",
+      "id": 1
+    },
+    {
+      "orderDate": "2023-10-17T18:30:00.000Z",
+      "quantity": 1,
+      "totalAmount": 400,
+      "customerName": "SEERAM MAHESH BABU",
+      "customerEmail": "maheshbabuseeram@gmail.com",
+      "customerPhone": "+919494000897",
+      "customerstreet": "mg road near gandhi road chittinagr vijayawada",
+      "customercity": "mg road near gandhi road chittinagr vijayawada",
+      "customerstate": "mg road near gandhi road chittinagr vijayawada",
+      "customerpincode": "520001",
+      "customerflatNo": "630",
+      "cakePrice": 400,
+      "cakeName": "Brownies Different Flavor",
+      "id": 2
+    },
+    {
+      "orderDate": "2023-10-25T18:30:00.000Z",
+      "quantity": 3,
+      "totalAmount": 1200,
+      "customerName": "Ramesh",
+      "customerEmail": "xyz@gmail.com",
+      "customerPhone": "+917894563210",
+      "customerflatNo": "980",
+      "customerstreet": "mg road near gandhi road chittinagr vijayawada",
+      "customercity": "mg road near gandhi road chittinagr vijayawada",
+      "customerstate": "mg road near gandhi road chittinagr vijayawada",
+      "customerpincode": "520001",
+      "cakePrice": 400,
+      "cakeName": "Brownies Different Flavor",
+      "id": 3
+    },
+    {
+      "orderDate": "2023-10-26T18:30:00.000Z",
+      "quantity": 3,
+      "totalAmount": 960,
+      "customerName": "Rakesh",
+      "customerEmail": "xyz@gmail.com",
+      "customerPhone": "+917894563210",
+      "customerstreet": "mg road near gandhi road chittinagr vijayawada",
+      "customercity": "mg road near gandhi road chittinagr vijayawada",
+      "customerstate": "mg road near gandhi road chittinagr vijayawada",
+      "customerpincode": "520001",
+      "cakePrice": 320,
+      "cakeName": "Berries Summer Cupcakes",
+      "id": 4
+    },
+    {
+      "orderDate": "2023-10-18T18:30:00.000Z",
+      "quantity": 1,
+      "totalAmount": 650,
+      "customerName": "Rohit Kumar",
+      "customerEmail": "rohit@gmail.com",
+      "customerPhone": "+919658741230",
+      "customerflatNo": "309",
+      "customerstreet": "Pushpa Hotel",
+      "customercity": "Viayawada",
+      "customerstate": "Andhra Pradesh",
+      "customerpincode": "520001",
+      "cakePrice": 650,
+      "cakeName": "Chocolate Bonbons",
+      "id": 5
+    },
+    {
+      "orderDate": "2023-10-25T18:30:00.000Z",
+      "quantity": 3,
+      "totalAmount": 750,
+      "customerName": "Mustan",
+      "customerEmail": "mustan@gmail.com",
+      "customerPhone": "+917896541230",
+      "customerflatNo": "102",
+      "customerstreet": "Moglrajpuram",
+      "customercity": "Viayawada",
+      "customerstate": "Andhra Pradesh",
+      "customerpincode": "520001",
+      "cakePrice": 250,
+      "cakeName": "Pumpkin Spice Cupcakes",
+      "id": 6
+    },
+    {
+      "orderDate": "2023-10-29T18:30:00.000Z",
+      "quantity": 2,
+      "totalAmount": 440,
+      "customerName": "Chaitnaya",
+      "customerEmail": "chaitnaya@gmail.com",
+      "customerPhone": "+918965874562",
+      "customerflatNo": "305",
+      "customerstreet": "Ramesh hospital",
+      "customercity": "Viayawada",
+      "customerstate": "Andhra Pradesh",
+      "customerpincode": "520001",
+      "cakePrice": 220,
+      "cakeName": "Chocolate Cupcake",
+      "id": 7
+    },
+    {
+      "orderDate": "2023-10-26T18:30:00.000Z",
+      "quantity": 5,
+      "totalAmount": 2000,
+      "customerName": "Babulu",
+      "customerEmail": "babulu@gmail.com",
+      "customerPhone": "+917456981230",
+      "customerflatNo": "602",
+      "customerstreet": "nakkal road",
+      "customercity": "vijayawada",
+      "customerstate": "Andhra Pradesh",
+      "customerpincode": "520001",
+      "cakePrice": 400,
+      "cakeName": "Brownies Different Flavor",
+      "id": 8
+    },
+    {
+      "orderDate": "2024-01-17T18:30:00.000Z",
+      "quantity": 6,
+      "totalAmount": 1380,
+      "customerName": "bhaskar",
+      "customerEmail": "bhaskar@gmail.com",
+      "customerPhone": "+919874563210",
+      "customerflatNo": "960",
+      "customerstreet": "MG Road",
+      "customercity": "vijayawada",
+      "customerstate": "Andhra Pradesh",
+      "customerpincode": "520001",
+      "cakePrice": 230,
+      "cakeName": "Cookies Cream Cake",
+      "id": 9
+    }
+  ]
+}

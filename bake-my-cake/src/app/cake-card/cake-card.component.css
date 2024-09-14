@@ -1,0 +1,37 @@
+.cake-card {
+    width: 22%;
+    margin: 30px 10px;
+    display: inline-flex;
+    flex-direction: column;
+    max-height: 400px;
+    justify-content: space-between;
+    background-color: #f673b9;
+    border: 1px solid #582f0e;
+  }
+  
+  .cake-title {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    font-size: 1.15em;
+    color: #9b5306;
+    font-weight: bold;
+  }
+  
+  .cart-icon {
+    display: inline;
+    margin-right: 40px;
+    color: #582f0e;
+  }
+  .img {
+    width: 100%;
+    height: 200px;
+  }
+  .cake-rating {
+    color: #4f2b06;
+    font-weight: bold;
+  }
+  .cake-price {
+    color: #582f0e;
+    font-weight: bold;
+  }

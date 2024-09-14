@@ -1,0 +1,47 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: blueviolet;
+    color: #251504;
+    height: 35px;
+  }
+  
+  .left-side {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 8px;
+  
+    font: small-caps bold 24px/1 sans-serif;
+    font-weight: bolder;
+   
+  }
+  
+  section {
+    margin: auto;
+    margin-top: 40px;
+    margin-left: 90px;
+  }
+  .icons {
+    display: flex;
+    gap: 15px;
+  
+    margin-right: 260px;
+    margin-top: 5px;
+    size: 50px;
+    cursor: pointer;
+  }
+  .icons {
+    display: flex;
+    gap: 15px;
+  
+    margin-right: 260px;
+    margin-top: 5px;
+    size: 50px;
+    cursor: pointer;
+  }
+  #hero-image {
+    margin: auto;
+    margin-top: 30px;
+    width: 70vw;
+  }
